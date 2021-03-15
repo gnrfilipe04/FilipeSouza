@@ -36,3 +36,5 @@
 
 <br>
 <br>
+
+<img align="left" alt="Filipe Souza GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=gnrfilipe04&show_icons=true&theme=radical&hide_border=true" />
