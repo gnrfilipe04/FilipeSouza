@@ -23,7 +23,6 @@
 <img align="left" alt="GitHub" width="26px" src="icons/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="icons/vscode.png" />
 
-
 <br />
 <br>
 <br>
@@ -37,4 +36,3 @@
 
 <br>
 <br>
-
