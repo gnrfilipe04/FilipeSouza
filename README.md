@@ -3,7 +3,7 @@
 ### Sobre mim
 
 - 🧔🏽 Tenho 26 anos, sou brasileiro e resido no RS - Brasil
-- 🌱 Atualmente focado em ReactJS e NodeJS, realizando o curso ignite da [Rocketseat](https://rocketseat.com.br/) 
+- 🌱 Atualmente focado em ReactJS e NodeJS, concluíndo o curso ignite da [Rocketseat](https://rocketseat.com.br/) 
 - 📚 Sempre tentando melhorar minhas habilidades de programação com exercícios e projetos
 - ⚡ Eu amo tecnologia, sou interessado também em política e vida no exterior
 
