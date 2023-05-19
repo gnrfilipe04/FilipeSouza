@@ -2,8 +2,8 @@
 
 ### Sobre mim
 
-- 🧔🏽 Tenho 26 anos, sou brasileiro e resido no RS - Brasil
-- 🌱 Atualmente focado em ReactJS e NodeJS, concluíndo o curso ignite da [Rocketseat](https://rocketseat.com.br/) 
+- 🧔🏽 Tenho 28 anos, sou brasileiro e resido no RS - Brasil, 3 anos trabalhando como Front-end
+- 🌱 Atualmente focado em React Native e Flutter
 - 📚 Sempre tentando melhorar minhas habilidades de programação com exercícios e projetos
 - ⚡ Eu amo tecnologia, sou interessado também em política e vida no exterior
 
